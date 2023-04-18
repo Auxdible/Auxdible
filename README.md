@@ -1,4 +1,5 @@
 # About Me
-Hello! My name is Auxdible, I am a 16 year old Front End Developer stationed in the United States. 
+Hello! My name is Auxdible, I am a 16 year old Full Stack Developer in the United States, experienced with TypeScript and MERN. 
 
-I am a lover of all things coffee.
+`☕` Coffee Lover
+`🖥️` Developer of Auxdibot
