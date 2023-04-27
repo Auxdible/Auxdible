@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="./assets/ICON.png" width=225/>
   <div id="socials">
-    <a href="https://www.reddit.com/user/Auxdible">
+    <a href="https://www.youtube.com/channel/UCOE_IxVOdNtejqGqmrdRWZA">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCOE_IxVOdNtejqGqmrdRWZA">
+    <a href="https://www.reddit.com/user/Auxdible">
       <img src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=Reddit&logoColor=white"/>
     </a>
     <a href="https://discord.gg/tnsFW9CQEn">
