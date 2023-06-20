@@ -63,6 +63,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" width=50/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-plain.svg" width=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width=50 />
   </div>
   <div id="databases">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width=50/>
