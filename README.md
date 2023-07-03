@@ -11,15 +11,21 @@
       <img src="https://img.shields.io/badge/Auxdibot%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
   </div>
-  <div id="views">
+  <div id="portfolio">
+    <a href="https://auxdible.me">
+      <img src="https://img.shields.io/badge/Portfolio%20Site-ee884b?style=for-the-badge&logoColor=white"/>
+    </a>
+  </div>
+  <div id="main-stats">
       <img src="https://komarev.com/ghpvc/?username=Auxdible&style=for-the-badge&color=ffa800"/>
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAuxdible&logo=leetcode&logoColor=yellow"/>
   </div>
   <h1 id="welcome">
     Auxdible ☕
     
   </h1>
 </div>
-<p id="quote" align="center"><i>Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing.</i><h3 align="center">- Muhammad Ali</h3></p>
+<p id="quote" align="center"><i>And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.</i><h3 align="center">- Colossians 3:17, NIV</h3></p>
 
 ## 👋 About Me:
 
@@ -31,12 +37,8 @@
 
 * #### `🌎` - Stationed in the USA
 
-### What do I do?
+Hello! My name is Auxdible, aka Steven Primeaux. I am a seventeen-year-old Full Stack Developer and student, passionate about crafting innovative, interactive and invigorating experiences on the web! I have been studying Full Stack Development for two years and have learned numerous libraries, frameworks, and languages in my coding journey.
 
-* Currently I am working on a multipurpose discord.js bot utilizing the MERN tech stack with TypeScript, [Auxdibot](https://github.com/Auxdible/auxdibot/). 
-* Studying the MERN tech stack along with numerous libraries to expand my knowledge on Full Stack development. 
-
----
 ## 🖥️ Languages, Libraries, and Tools
 
 <div id="languages-and-tools">
