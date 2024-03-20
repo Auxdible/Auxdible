@@ -68,6 +68,7 @@ Hello! My name is Auxdible, aka Steven Primeaux. I am a seventeen-year-old Full 
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width=50 />
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=50 />
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width=50 />
   </div>
   <div id="libraries">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width=50 />
