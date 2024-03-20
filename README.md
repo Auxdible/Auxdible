@@ -29,7 +29,7 @@
 
 ## 👋 About Me:
 
-* #### `🧑‍🎓` - Homeschooled Student
+* #### `🧑‍🎓` - Homeschooled Graduate
   
 * #### `☕` - Coffee Lover
 
@@ -37,42 +37,61 @@
 
 * #### `🌎` - Stationed in the USA
 
-Hello! My name is Auxdible, aka Steven Primeaux. I am a seventeen-year-old Full Stack Developer and student, passionate about crafting innovative, interactive and invigorating experiences on the web! I have been studying Full Stack Development for two years and have learned numerous libraries, frameworks, and languages in my coding journey.
+Hello! My name is Auxdible, aka Steven Primeaux. I am a seventeen-year-old Full Stack Developer and student, passionate about crafting innovative, interactive and invigorating experiences on the web! I have been studying Full Stack Development for three years and have learned numerous libraries, frameworks, and languages in my coding journey.
 
 ## 🖥️ Languages, Libraries, and Tools
 
 <div id="languages-and-tools">
   <div id="tools">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" width=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg" width=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" width=50 />
+    
   </div>
   <div id="languages">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width=50/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=50 />
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width=50/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width=50 />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=50 />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=50 />
   </div>
   <div id="libraries">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width=50 />
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width=50/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width=50 />
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" width=50/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-plain.svg" width=50/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width=50 />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=50 />
     <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-plain.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" width=50 />
   </div>
   <div id="databases">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width=50/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" width=50 />
   </div>
 </div>
 
