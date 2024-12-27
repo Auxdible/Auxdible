@@ -37,7 +37,9 @@
 
 * #### `🌎` - Stationed in the USA
 
-Hello! My name is Auxdible, aka Steven Primeaux. I am a seventeen-year-old Full Stack Developer and student, passionate about crafting innovative, interactive and invigorating experiences on the web! I have been studying Full Stack Development for three years and have learned numerous libraries, frameworks, and languages in my coding journey.
+Hello! My name is Auxdible, aka Steven Primeaux. I am a Full Stack Developer with three years of experience, passionate about crafting innovative, interactive and invigorating experiences on the web! I develop web-based applications in the cloud using Next.js and the MERN tech stack. 
+
+
 
 ## 🖥️ Languages, Libraries, and Tools
 
